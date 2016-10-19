@@ -5,12 +5,7 @@ import sys
 timestr = time.strftime("%Y%m%d-%Hh%Mm%Ss")
 timestr
 
-#reload(sys)
-#sys.setdefaultencoding('utf-8')
-#kategorije = ['Asian-Antiques', 'Silver', 'Decorative-Arts', 'Maps-Atlases-Globes', 'Architectural-Garden']
-#KONCALO PRI ARCHITECTURAL GARDEN STRAN 20 J*******
-#http://www.ebay.com/sch/Antiques/20081/i.html?_dmd=1&_sop=1&_nkw=antiques&rt=nc&LH_Auction=1
-#kategorije = ['Asian-Antiques']
+#Vƒçasih koda ne deluje, treba pognati veƒçkrat, morda napaka v encoding.
 kategorije = [
 	'Asian-Antiques/20082', 'Silver/20096', 'Decorative-Arts/20086',
 	'Linens-Textiles-Pre-1930/181677', 'Architectural-Garden/4707',
@@ -22,8 +17,7 @@ kategorije = [
 	'Musical-Instruments-Pre-1930/181726'
 	]
 	
-#Izbral bom 20000 izdelkov iz vsake kategorije, nima vsaka kategorija 20000 izdelkov, ebay ne vraËa error message za
-#preveliko ötevilko strani, zato bom z regexom moral opraviti z napakami.
+'''Izbral bom 20000 izdelkov iz vsake kategorije, nima vsaka kategorija 20000 izdelkov, ebay ne vra√®a error message za preveliko ≈°tevilko strani, zato bom z regexom moral opraviti z napakami.'''
 
 for kategorija in kategorije:
     for stran in range(1, 2):
@@ -33,9 +27,9 @@ for kategorija in kategorije:
         #200 stvari na stran gledam
         url = requests.get(osnova_strani)
         cas = time.strftime("%d.%m")
-        #Boljöe, da ne uporabljam tega, Ëe ne bo nemogoËe s temi datotekami se ukvarjati, razen dneva, dan bo pa ûe.
+        #html strani bodo imele ime dneva in meseca, na zaƒçetku vsake html datoteke bo ≈°e napisana ura, minuta, sekunda
         ime_datoteke = 'ebay-{}-stran-{:03}-'.format(kategorija, stran)+cas
-        #éal zaradi ebaya moram naenkrat shraniti vse, verjetno bom moral zbrisati duplikate.
+        #≈Ωal zaradi ebaya moram naenkrat shraniti vse, verjetno bom moral zbrisati duplikate.
         moja_datoteka = open(ime_datoteke + '.html', 'w')
         datoteka.write(time.strftime('%d.%m. %Hh%Mmin%Ss') + url.text)
         print('{},{}'.format(kategorija, stran))
