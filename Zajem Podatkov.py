@@ -1,16 +1,12 @@
+
+
 import requests
 import os
 import time
 import sys
-timestr = time.strftime("%Y%m%d-%Hh%Mm%Ss")
-timestr
 
-#reload(sys)
-#sys.setdefaultencoding('utf-8')
-#kategorije = ['Asian-Antiques', 'Silver', 'Decorative-Arts', 'Maps-Atlases-Globes', 'Architectural-Garden']
-#KONCALO PRI ARCHITECTURAL GARDEN STRAN 20 J*******
-#http://www.ebay.com/sch/Antiques/20081/i.html?_dmd=1&_sop=1&_nkw=antiques&rt=nc&LH_Auction=1
-#kategorije = ['Asian-Antiques']
+#Vƒçasih koda ne deluje, treba pognati veƒçkrat, morda napaka v encoding.
+
 kategorije = [
 	'Asian-Antiques/20082', 'Silver/20096', 'Decorative-Arts/20086',
 	'Linens-Textiles-Pre-1930/181677', 'Architectural-Garden/4707',
@@ -22,20 +18,30 @@ kategorije = [
 	'Musical-Instruments-Pre-1930/181726'
 	]
 	
-#Izbral bom 20000 izdelkov iz vsake kategorije, nima vsaka kategorija 20000 izdelkov, ebay ne vraËa error message za
-#preveliko ötevilko strani, zato bom z regexom moral opraviti z napakami.
+'''Izbral bom 20000 izdelkov iz vsake kategorije, nima vsaka kategorija 20000 izdelkov, ebay ne vraea error message za preveliko ≈°tevilko strani, zato bom z regexom moral opraviti z napakami.'''
 
-for kategorija in kategorije:
-    for stran in range(1, 2):
-        osnova_strani = 'http://www.ebay.com/sch/{}/i.html?_dmd=1&_sop=1&LH_Auction=1&_nkw=antiques&_pgn={}&_skc=200&rt=nc'.format(kategorija, stran)
-        #Ending soonest, auction only, 200 items per page
-        print(osnova_strani)
-        #200 stvari na stran gledam
-        url = requests.get(osnova_strani)
-        cas = time.strftime("%d.%m")
-        #Boljöe, da ne uporabljam tega, Ëe ne bo nemogoËe s temi datotekami se ukvarjati, razen dneva, dan bo pa ûe.
-        ime_datoteke = 'ebay-{}-stran-{:03}-'.format(kategorija, stran)+cas
-        #éal zaradi ebaya moram naenkrat shraniti vse, verjetno bom moral zbrisati duplikate.
-        moja_datoteka = open(ime_datoteke + '.html', 'w')
-        datoteka.write(time.strftime('%d.%m. %Hh%Mmin%Ss') + url.text)
-        print('{},{}'.format(kategorija, stran))
+print("Vtipkaj 'zajem_vseh_strani(≈°tevilo)', da bo program dol potegnil vso informacijo. (Priporoƒçam vsaj 20 in manj kot 100)")
+
+def naredi_datoteko(datoteka):
+	os.makedirs(os.path.dirname(datoteka))
+#	with open(datoteka, "w") as f:
+#		f.write("FOOBAR")
+#Ta koda vzeta direkt od http://stackoverflow.com/questions/12517451/python-automatically-creating-directories-with-file-output
+
+def zajem_vseh_strani(do_kod):
+	for kategorija in kategorije:
+		for stran in range(1, do_kod):
+			osnova_strani = 'http://www.ebay.com/sch/{}/i.html?_dmd=1&_sop=1&LH_Auction=1&_nkw=antiques&_pgn={}&_skc=200&rt=nc'.format(kategorija, stran)
+			#Ending soonest, auction only, 200 items per page
+			url = requests.get(osnova_strani)
+			cas = time.strftime("%d.%m")
+			#html strani bodo imele ime dneva in meseca, na zaƒçetku vsake html datoteke bo ≈æe napisana ura, minuta, sekunda
+			ime_datoteke = 'ebay-{}-stran-{:03}-'.format(kategorija, stran) + cas
+			#≈Ωal zaradi ebaya moram naenkrat shraniti vse, verjetno bom moral zbrisati duplikate.
+			datoteka = "/Ebay, dneva " + time.strftime("Ebay, dneva %d.%m.")
+			moja_datoteka = open(datoteka + ime_datoteke + '.html', 'w')
+			naredi_datoteko(moja_datoteka)
+			datoteka.write(time.strftime('%d.%m. %Hh%Mmin%Ss') + url.text)
+			print('{},{}'.format(kategorija, stran))
+
+zajem_vseh_strani(2)
