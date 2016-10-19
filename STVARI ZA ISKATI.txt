@@ -1,0 +1,83 @@
+﻿</div>
+			<li id="item2a728c80f2" _sp="p2045573.m1686.l8" listingId="182310437106" class="sresult lvresult clearfix li"
+	r="1" >
+	
+	<div class="lvpic pic img left" iid="182310437106" >
+			<div class="lvpicinner full-width picW">
+
+	<a href="http://www.ebay.com/itm/Chinese-Collectable-Bronze-Hand-Carved-Three-Dogs-Brush-Washers-D1216-/182310437106?hash=item2a728c80f2:g:ea4AAOSwNRdX2qPg" class="img imgWr2">
+				     <img  
+						src="http://thumbs.ebaystatic.com/images/g/ea4AAOSwNRdX2qPg/s-l225.jpg" class="img" alt='Chinese Collectable Bronze Hand Carved Three Dogs Brush Washers D1216' />
+				</a>
+			<a class="mi-a enl" t="EL" tabindex="0" url="null"  iid="182310437106" v="0" c="4">
+				<b></b>
+			</a>
+		</div></div>
+	<h3 class="lvtitle"><a href="http://www.ebay.com/itm/Chinese-Collectable-Bronze-Hand-Carved-Three-Dogs-Brush-Washers-D1216-/182310437106?hash=item2a728c80f2:g:ea4AAOSwNRdX2qPg"  class="vip" title="Click this link to access Chinese Collectable Bronze Hand Carved Three Dogs Brush Washers D1216">Chinese Collectable Bronze Hand Carved Three Dogs Brush Washers D1216</a>
+		</h3>
+		
+############### IME #############
+		
+		
+	<ul class="lvprices left space-zero" _sp="p2045573.m1686.l8">
+
+	<li class="lvprice prc">
+			<span  class="bold">$15.50</span>
+</li>
+		<li class="lvformat">
+			<span >11 bids</span> ###########ŠTEVILO PONUDB############
+		</li>
+	<li class="lvshipping">	
+			<span class="ship">
+	<span >
+						<span class="bfsp">Free international shipping</span></span> #####FREE SHIPPIN#####
+				</span></li>
+	<li class="lvextras" _sp="p2045573.m1686.l8">
+		<div class="hotness bold">
+
+	</div>
+
+</li>
+
+	</ul><ul class="lvdetails left space-zero full-width">
+<li class="timeleft bold" >
+					<span class="tme" >				
+	<span aria-label="Ending time: " class="MINUTES timeMs" timeMs="1476802973000"></span> ####ČAS OSTALI########UNIX TIME?????
+		</span></li>
+			<li >
+					From China</li> ########LOKACIJA##########
+				<li >
+			<span class="etrsWpr">
+##########ZAUPAN PRODAJALEC###########						<img  class="iconETRS1" src="http://ir.ebaystatic.com/pictures/aw/pics/s_1x2.gif" height="19px" width="122px" alt="Get fast shipping and excellent service when you buy from eBay Top-rated sellers" />
+									</span>
+				</li>
+	</ul></li><li id="item2a728c811c" _sp="p2045573.m1686.l8" listingId="182310437148" class="sresult lvresult clearfix li"
+	r="2" >
+	
+	<div class="lvpic pic img left" iid="182310437148" >
+			<div class="lvpicinner full-width picW">
+
+	<a href="http://www.ebay.com/itm/WOW-Antique-Chinese-Ming-ChengHua-Mark-Porcelain-Rooster-Bowl-/182310437148?hash=item2a728c811c:g:ab4AAOSwYIxX-6O4" class="img imgWr2">
+				     <img  
+						src="http://thumbs.ebaystatic.com/images/g/ab4AAOSwYIxX-6O4/s-l225.jpg" class="img" alt='WOW !!! Antique Chinese Ming ChengHua Mark Porcelain *Rooster* Bowl' />
+				</a>
+			</div></div>
+	<h3 class="lvtitle"><a href="http://www.ebay.com/itm/WOW-Antique-Chinese-Ming-ChengHua-Mark-Porcelain-Rooster-Bowl-/182310437148?hash=item2a728c811c:g:ab4AAOSwYIxX-6O4"  class="vip" title="Click this link to access WOW !!! Antique Chinese Ming ChengHua Mark Porcelain *Rooster* Bowl">WOW !!! Antique Chinese Ming ChengHua Mark Porcelain *Rooster* Bowl</a>
+		</h3>
+	<ul class="lvprices left space-zero" _sp="p2045573.m1686.l8">
+
+	<li class="lvprice prc">
+			<span  class="bold">$1.08</span> #######CENA########
+</li>
+		<li class="lvformat">
+			<span >1 bid</span> #######ŠTEVILO PONUDB########
+		</li>
+	<li class="lvshipping">	
+			<span class="ship">
+	<span >
+						<span class="bfsp">Free international shipping</span></span> 
+				</span></li>
+	<li class="lvextras" _sp="p2045573.m1686.l8">
+		<div class="hotness bold">
+
+	</div>
