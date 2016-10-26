@@ -1,0 +1,448 @@
+id,html_ime,ime
+37903,Antiquities,Antiquities
+4707,Architectural-Garden,Architectural & Garden
+20082,Asian-Antiques,Asian Antiques
+20086,Decorative-Arts,Decorative Arts
+2207,Ethnographic,Ethnographic
+163008,Home-Hearth,Home & Hearth
+22422,Incunabula,Incunabula
+181677,Linens-Textiles-Pre-1930,Linens & Textiles (Pre-1930)
+23048,Manuscripts,Manuscripts
+37958,Maps-Atlases-Globes,"Maps, Atlases & Globes"
+37965,Maritime,Maritime
+163091,Mercantile-Trades-Factories,"Mercantile, Trades & Factories"
+181726,Musical-Instruments-Pre-1930,Musical Instruments (Pre-1930)
+12,Other-Antiques,Other Antiques
+100927,Periods-Styles,Periods & Styles
+1217,Primitives,Primitives
+22608,Reproduction-Antiques,Reproduction Antiques
+163101,Restoration-Care,Restoration & Care
+37978,Rugs-Carpets,Rugs & Carpets
+20094,Science-Medicine-Pre-1930,Science & Medicine (Pre-1930)
+156323,Sewing-Pre-1930,Sewing (Pre-1930)
+20096,Silver,Silver
+158658,Art-from-Dealers-Resellers,Art from Dealers & Resellers
+60435,Direct-from-the-Artist,Direct from the Artist
+100223,Baby-Gear,Baby Gear
+20433,Baby-Safety-Health,Baby Safety & Health
+20394,Bathing-Grooming,Bathing & Grooming
+66692,Car-Safety-Seats,Car Safety Seats
+100982,Carriers-Slings-Backpacks,"Carriers, Slings & Backpacks"
+45455,Diapering,Diapering
+20400,Feeding,Feeding
+117388,Keepsakes-Baby-Announcements,Keepsakes & Baby Announcements
+20416,Nursery-Bedding,Nursery Bedding
+66697,Nursery-Decor,Nursery Décor
+20422,Nursery-Furniture,Nursery Furniture
+1261,Other-Baby,Other Baby
+37631,Potty-Training,Potty Training
+66698,Strollers-Accessories,Strollers & Accessories
+19068,Toys-for-Baby,Toys for Baby
+45110,Accessories,Accessories
+29223,Antiquarian-Collectible,Antiquarian & Collectible
+29792,Audiobooks,Audiobooks
+118254,Catalogs,Catalogs
+182882,Children-Young-Adults,Children & Young Adults
+11104,Cookbooks,Cookbooks
+171228,Fiction-Literature,Fiction & Literature
+280,Magazine-Back-Issues,Magazine Back Issues
+171243,Nonfiction,Nonfiction
+268,Other-Books,Other Books
+2228,Textbooks-Education,"Textbooks, Education"
+29399,Wholesale-Bulk-Lots,Wholesale & Bulk Lots
+11748,Agriculture-Forestry,Agriculture & Forestry
+42892,Automation-Motors-Drives,"Automation, Motors & Drives"
+11765,Construction,Construction
+92074,Electrical-Test-Equipment,Electrical & Test Equipment
+159693,Fuel-Energy,Fuel & Energy
+11815,Healthcare-Lab-Life-Science,"Healthcare, Lab & Life Science"
+177641,Heavy-Equipment,Heavy Equipment
+177647,Heavy-Equipment-Attachments,Heavy Equipment Attachments
+41489,Heavy-Equipment-Parts-Accs,Heavy Equipment Parts & Accs
+61573,Light-Equipment-Tools,Light Equipment & Tools
+11804,Manufacturing-Metalworking,Manufacturing & Metalworking
+1266,MRO-Industrial-Supply,MRO & Industrial Supply
+25298,Office,Office
+26261,Other-Business-Industrial,Other Business & Industrial
+19273,Packing-Shipping,Packing & Shipping
+26238,Printing-Graphic-Arts,Printing & Graphic Arts
+11874,Restaurant-Catering,Restaurant & Catering
+11890,Retail-Services,Retail & Services
+11759,Websites-Businesses-for-Sale,Websites & Businesses for Sale
+28179,Binoculars-Telescopes,Binoculars & Telescopes
+11724,Camcorders,Camcorders
+15200,Camera-Photo-Accessories,Camera & Photo Accessories
+182969,Camera-Drone-Parts-Accs,Camera Drone Parts & Accs
+179697,Camera-Drones,Camera Drones
+4684,Camera-Manuals-Guides,Camera Manuals & Guides
+31388,Digital-Cameras,Digital Cameras
+150044,Digital-Photo-Frames,Digital Photo Frames
+69323,Film-Photography,Film Photography
+64353,Flashes-Flash-Accessories,Flashes & Flash Accessories
+78997,Lenses-Filters,Lenses & Filters
+30078,Lighting-Studio,Lighting & Studio
+27432,Other-Cameras-Photo,Other Cameras & Photo
+182074,Replacement-Parts-Tools,Replacement Parts & Tools
+30090,Tripods-Supports,Tripods & Supports
+21162,Video-Production-Editing,Video Production & Editing
+3326,Vintage-Movie-Photography,Vintage Movie & Photography
+43304,Cell-Phone-Smartphone-Parts,Cell Phone & Smartphone Parts
+9394,Cell-Phone-Accessories,Cell Phone Accessories
+9355,Cell-Phones-Smartphones,Cell Phones & Smartphones
+136699,Display-Phones,Display Phones
+42428,Other-Cell-Phones-Accs,Other Cell Phones & Accs
+146492,Phone-Cards-SIM-Cards,Phone Cards & SIM Cards
+182064,Smart-Watch-Accessories,Smart Watch Accessories
+178893,Smart-Watches,Smart Watches
+182073,Vintage-Cell-Phones,Vintage Cell Phones
+3082,Baby-Toddler-Clothing,Baby & Toddler Clothing
+163147,Costumes-Reenactment-Theater,"Costumes, Reenactment, Theater"
+155240,Cultural-Ethnic-Clothing,Cultural & Ethnic Clothing
+112425,Dancewear,Dancewear
+171146,Kids-Clothing-Shoes-Accs,"Kids' Clothing, Shoes & Accs"
+4250,Mens-Accessories,Men's Accessories
+1059,Mens-Clothing,Men's Clothing
+93427,Mens-Shoes,Men's Shoes
+28015,Uniforms-Work-Clothing,Uniforms & Work Clothing
+155184,Unisex-Clothing-Shoes-Accs,"Unisex Clothing, Shoes & Accs"
+175759,Vintage,Vintage
+3259,Wedding-Formal-Occasion,Wedding & Formal Occasion
+41964,Wholesale-Large-Small-Lots,"Wholesale, Large & Small Lots"
+4251,Womens-Accessories,Women's Accessories
+15724,Womens-Clothing,Women's Clothing
+169291,Womens-Handbags-Bags,Women's Handbags & Bags
+3034,Womens-Shoes,Women's Shoes
+39482,Bullion,Bullion
+4733,Coins-Ancient,Coins: Ancient
+3377,Coins-Canada,Coins: Canada
+18466,Coins-Medieval,Coins: Medieval
+253,Coins-US,Coins: US
+256,Coins-World,Coins: World
+3452,Exonumia,Exonumia
+169305,Other-Coins-Paper-Money,Other Coins & Paper Money
+3412,Paper-Money-US,Paper Money: US
+3411,Paper-Money-World,Paper Money: World
+83274,Publications-Supplies,Publications & Supplies
+3444,Stocks-Bonds-Scripophily,"Stocks & Bonds, Scripophily"
+179197,Virtual-Currency,Virtual Currency
+34,Advertising,Advertising
+1335,Animals,Animals
+13658,Animation-Art-Characters,Animation Art & Characters
+66502,Arcade-Jukeboxes-Pinball,"Arcade, Jukeboxes & Pinball"
+14429,Autographs,Autographs
+66503,Banks-Registers-Vending,"Banks, Registers & Vending"
+3265,Barware,Barware
+156277,Beads,Beads
+29797,Bottles-Insulators,Bottles & Insulators
+562,Breweriana-Beer,"Breweriana, Beer"
+898,Casino,Casino
+397,Clocks,Clocks
+63,Comics,Comics
+1462,Credit-Charge-Cards,"Credit, Charge Cards"
+3913,Cultures-Ethnicities,Cultures & Ethnicities
+13777,Decorative-Collectibles,Decorative Collectibles
+137,Disneyana,Disneyana
+10860,Fantasy-Mythical-Magic,"Fantasy, Mythical & Magic"
+13877,Historical-Memorabilia,Historical Memorabilia
+907,Holiday-Seasonal,Holiday & Seasonal
+13905,Kitchen-Home,Kitchen & Home
+1401,Knives-Swords-Blades,"Knives, Swords & Blades"
+1404,Lamps-Lighting,"Lamps, Lighting"
+940,Linens-Textiles-1930-Now,Linens & Textiles (1930-Now)
+1430,Metalware,Metalware
+13956,Militaria,Militaria
+182982,Non-Sport-Trading-Cards,Non-Sport Trading Cards
+124,Paper,Paper
+966,Pens-Writing-Instruments,Pens & Writing Instruments
+14005,Pez-Keychains-Promo-Glasses,"Pez, Keychains, Promo Glasses"
+1463,Phone-Cards,Phone Cards
+14277,Photographic-Images,Photographic Images
+39507,Pinbacks-Bobbles-Lunchboxes,"Pinbacks, Bobbles, Lunchboxes"
+914,Postcards,Postcards
+29832,Radio-Phonograph-TV-Phone,"Radio, Phonograph, TV, Phone"
+1446,Religion-Spirituality,Religion & Spirituality
+3213,Rocks-Fossils-Minerals,"Rocks, Fossils & Minerals"
+412,Science-Medicine-1930-Now,Science & Medicine (1930-Now)
+152,Science-Fiction-Horror,Science Fiction & Horror
+113,Sewing-1930-Now,Sewing (1930-Now)
+165800,Souvenirs-Travel-Memorabilia,Souvenirs & Travel Memorabilia
+593,Tobacciana,Tobacciana
+13849,Tools-Hardware-Locks,"Tools, Hardware & Locks"
+417,Transportation,Transportation
+597,Vanity-Perfume-Shaving,"Vanity, Perfume & Shaving"
+69851,Vintage-Retro-Mid-Century,"Vintage, Retro, Mid-Century"
+182094,Computer-Cables-Connectors,Computer Cables & Connectors
+175673,Computer-Components-Parts,Computer Components & Parts
+171957,Desktops-All-In-Ones,Desktops & All-In-Ones
+165,Drives-Storage-Blank-Media,"Drives, Storage & Blank Media"
+175698,Enterprise-Networking-Servers,"Enterprise Networking, Servers"
+11176,Home-Networking-Connectivity,Home Networking & Connectivity
+3676,Keyboards-Mice-Pointers,"Keyboards, Mice & Pointers"
+31530,Laptop-Desktop-Accessories,Laptop & Desktop Accessories
+175672,Laptops-Netbooks,Laptops & Netbooks
+3516,Manuals-Resources,Manuals & Resources
+162497,Monitors-Projectors-Accs,"Monitors, Projectors & Accs"
+162,Other-Computers-Networking,Other Computers & Networking
+86722,Power-Protection-Distribution,"Power Protection, Distribution"
+171961,Printers-Scanners-Supplies,"Printers, Scanners & Supplies"
+18793,Software,Software
+176970,Tablet-eBook-Reader-Accs,Tablet & eBook Reader Accs
+180235,Tablet-eBook-Reader-Parts,Tablet & eBook Reader Parts
+171485,Tablets-eBook-Readers,Tablets & eBook Readers
+11189,Vintage-Computing,Vintage Computing
+14948,Gadgets-Other-Electronics,Gadgets & Other Electronics
+50582,Home-Automation,Home Automation
+48633,Home-Surveillance,Home Surveillance
+3286,Home-Telephones-Accessories,Home Telephones & Accessories
+48446,Multipurpose-Batteries-Power,Multipurpose Batteries & Power
+15052,Portable-Audio-Headphones,Portable Audio & Headphones
+1500,Radio-Communication,Radio Communication
+32852,TV-Video-Home-Audio,"TV, Video & Home Audio"
+3270,Vehicle-Electronics-GPS,Vehicle Electronics & GPS
+183077,Vintage-Electronics,Vintage Electronics
+183067,Virtual-Reality,Virtual Reality
+61494,Wholesale-Lots,Wholesale Lots
+11783,Art-Supplies,Art Supplies
+31723,Beads-Jewelry-Making,Beads & Jewelry Making
+28162,Fabric,Fabric
+183118,Fabric-Painting-Decorating,Fabric Painting & Decorating
+163778,Glass-Mosaics,Glass & Mosaics
+71183,Handcrafted-Finished-Pieces,Handcrafted & Finished Pieces
+160667,Home-Arts-Crafts,Home Arts & Crafts
+116652,Kids-Crafts,Kids' Crafts
+28131,Leathercrafts,Leathercrafts
+28102,Multi-Purpose-Craft-Supplies,Multi-Purpose Craft Supplies
+160706,Needlecrafts-Yarn,Needlecrafts & Yarn
+75576,Other-Crafts,Other Crafts
+11788,Scrapbooking-Paper-Crafts,Scrapbooking & Paper Crafts
+183302,Sculpting-Molding-Ceramics,"Sculpting, Molding & Ceramics"
+160737,Sewing,Sewing
+3122,Stamping-Embossing,Stamping & Embossing
+50253,Bear-Making-Supplies,Bear Making Supplies
+386,Bears,Bears
+1202,Dollhouse-Miniatures,Dollhouse Miniatures
+238,Dolls,Dolls
+2440,Paper-Dolls,Paper Dolls
+617,DVDs-Blu-ray-Discs,DVDs & Blu-ray Discs
+63821,Film-Stock,Film Stock
+381,Laserdiscs,Laserdiscs
+52554,Storage-Media-Accessories,Storage & Media Accessories
+132975,UMDs,UMDs
+309,VHS-Tapes,VHS Tapes
+26429,Boats,Boats
+6001,Cars-Trucks,Cars & Trucks
+6024,Motorcycles,Motorcycles
+6038,Other-Vehicles-Trailers,Other Vehicles & Trailers
+6028,Parts-Accessories,Parts & Accessories
+66466,Powersports,Powersports
+57,Autographs-Original,Autographs-Original
+196,Movie-Memorabilia,Movie Memorabilia
+2329,Music-Memorabilia,Music Memorabilia
+2312,Other-Entertainment-Mem,Other Entertainment Mem
+1424,Television-Memorabilia,Television Memorabilia
+2362,Theater-Memorabilia,Theater Memorabilia
+45101,Video-Game-Memorabilia,Video Game Memorabilia
+172010,Coupons,Coupons
+176950,Digital-Gifts,Digital Gifts
+172036,eBay-Gift-Cards,eBay Gift Cards
+172009,Gift-Cards,Gift Cards
+31411,Gift-Certificates,Gift Certificates
+11838,Bath-Body,Bath & Body
+180345,Fragrances,Fragrances
+11854,Hair-Care-Styling,Hair Care & Styling
+67588,Health-Care,Health Care
+31786,Makeup,Makeup
+36447,Massage,Massage
+11778,Medical-Mobility-Disability,"Medical, Mobility & Disability"
+47945,Nail-Care-Manicure-Pedicure,"Nail Care, Manicure & Pedicure"
+67659,Natural-Alternative-Remedies,Natural & Alternative Remedies
+31769,Oral-Care,Oral Care
+1277,Other-Health-Beauty,Other Health & Beauty
+177731,Salon-Spa-Equipment,Salon & Spa Equipment
+31762,Shaving-Hair-Removal,Shaving & Hair Removal
+11863,Skin-Care,Skin Care
+31772,Sun-Protection-Tanning,Sun Protection & Tanning
+33914,Tattoos-Body-Art,Tattoos & Body Art
+31414,Vision-Care,Vision Care
+180959,Vitamins-Dietary-Supplements,Vitamins & Dietary Supplements
+26677,Bath,Bath
+20444,Bedding,Bedding
+14308,Food-Beverages,Food & Beverages
+178069,Fresh-Cut-Flowers-Supplies,Fresh Cut Flowers & Supplies
+3197,Furniture,Furniture
+16086,Greeting-Cards-Party-Supply,Greeting Cards & Party Supply
+38227,Holiday-Seasonal-Decor,Holiday & Seasonal Décor
+10033,Home-Decor,Home Décor
+159907,Home-Improvement,Home Improvement
+299,Household-Supplies-Cleaning,Household Supplies & Cleaning
+176988,Kids-Teens-at-Home,Kids & Teens at Home
+20625,Kitchen-Dining-Bar,"Kitchen, Dining & Bar"
+20697,Lamps-Lighting-Ceiling-Fans,"Lamps, Lighting & Ceiling Fans"
+20710,Major-Appliances,Major Appliances
+181076,Other-Home-Garden,Other Home & Garden
+631,Tools,Tools
+11827,Wedding-Supplies,Wedding Supplies
+63514,Window-Treatments-Hardware,Window Treatments & Hardware
+159912,Yard-Garden-Outdoor-Living,"Yard, Garden & Outdoor Living"
+84605,Childrens-Jewelry,Children's Jewelry
+91427,Engagement-Wedding,Engagement & Wedding
+11312,Ethnic-Regional-Tribal,"Ethnic, Regional & Tribal"
+10968,Fashion-Jewelry,Fashion Jewelry
+4196,Fine-Jewelry,Fine Jewelry
+110633,Handcrafted-Artisan-Jewelry,"Handcrafted, Artisan Jewelry"
+10321,Jewelry-Boxes-Organizers,Jewelry Boxes & Organizers
+164352,Jewelry-Design-Repair,Jewelry Design & Repair
+179264,Loose-Beads,Loose Beads
+491,Loose-Diamonds-Gemstones,Loose Diamonds & Gemstones
+10290,Mens-Jewelry,Men's Jewelry
+98863,Other-Jewelry-Watches,Other Jewelry & Watches
+48579,Vintage-Antique-Jewelry,Vintage & Antique Jewelry
+14324,Watches-Parts-Accessories,"Watches, Parts & Accessories"
+176983,Cassettes,Cassettes
+176984,CDs,CDs
+618,Other-Formats,Other Formats
+176985,Records,Records
+16212,Brass,Brass
+48458,DJ-Equipment,DJ Equipment
+180008,Equipment,Equipment
+3858,Guitars-Basses,Guitars & Basses
+182150,Instruction-Books-CDs-Video,"Instruction Books, CDs & Video"
+175696,Karaoke-Entertainment,Karaoke Entertainment
+308,Other-Musical-Instruments,Other Musical Instruments
+180012,Percussion,Percussion
+180010,Pianos-Keyboards-Organs,"Pianos, Keyboards & Organs"
+180014,Pro-Audio-Equipment,Pro Audio Equipment
+180015,Sheet-Music-Song-Books,Sheet Music & Song Books
+12922,Stage-Lighting-Effects,Stage Lighting & Effects
+180016,String,String
+181162,Vintage-Musical-Instruments,Vintage Musical Instruments
+10181,Wind-Woodwind,Wind & Woodwind
+177801,Backyard-Poultry-Supplies,Backyard Poultry Supplies
+20734,Bird-Supplies,Bird Supplies
+20737,Cat-Supplies,Cat Supplies
+20742,Dog-Supplies,Dog Supplies
+20754,Fish-Aquariums,Fish & Aquariums
+301,Other-Pet-Supplies,Other Pet Supplies
+116391,Pet-Memorials-Urns,Pet Memorials & Urns
+1285,Reptile-Supplies,Reptile Supplies
+26696,Small-Animal-Supplies,Small Animal Supplies
+50693,Glass,Glass
+18875,Pottery-China,Pottery & China
+15825,Commercial,Commercial
+15841,Land,Land
+94825,Manufactured-Homes,Manufactured Homes
+1607,Other-Real-Estate,Other Real Estate
+12605,Residential,Residential
+15897,Timeshares-for-Sale,Timeshares for Sale
+47126,Artistic-Services,Artistic Services
+50343,Custom-Clothing-Jewelry,Custom Clothing & Jewelry
+50349,eBay-Auction-Services,eBay Auction Services
+47131,Graphic-Logo-Design,Graphic & Logo Design
+170048,Home-Improvement-Services,Home Improvement Services
+175814,Item-Based-Services,Item Based Services
+50355,Media-Editing-Duplication,Media Editing & Duplication
+317,Other-Specialty-Services,Other Specialty Services
+20943,Printing-Personalization,Printing & Personalization
+47119,Restoration-Repair,Restoration & Repair
+47104,Web-Computer-Services,Web & Computer Services
+179767,Boxing-Martial-Arts-MMA,"Boxing, Martial Arts & MMA"
+7294,Cycling,Cycling
+1492,Fishing,Fishing
+15273,Fitness-Running-Yoga,"Fitness, Running & Yoga"
+1513,Golf,Golf
+7301,Hunting,Hunting
+36274,Indoor-Games,Indoor Games
+310,Other-Sporting-Goods,Other Sporting Goods
+159043,Outdoor-Sports,Outdoor Sports
+159049,Team-Sports,Team Sports
+159134,Tennis-Racquet-Sports,Tennis & Racquet Sports
+159136,Water-Sports,Water Sports
+36259,Winter-Sports,Winter Sports
+50115,Autographs-Reprints,Autographs-Reprints
+24409,Fan-Apparel-Souvenirs,Fan Apparel & Souvenirs
+50116,Game-Used-Memorabilia,Game Used Memorabilia
+141755,Sports-Stickers-Sets-Albums,"Sports Stickers, Sets & Albums"
+212,Sports-Trading-Cards,Sports Trading Cards
+50123,Vintage-Sports-Memorabilia,Vintage Sports Memorabilia
+181423,Africa,Africa
+181416,Asia,Asia
+181424,Australia-Oceania,Australia & Oceania
+65174,British-Colonies-Territories,British Colonies & Territories
+3478,Canada,Canada
+179377,Caribbean,Caribbean
+4742,Europe,Europe
+3499,Great-Britain,Great Britain
+181417,Latin-America,Latin America
+181422,Middle-East,Middle East
+170137,Other-Stamps,Other Stamps
+7898,Specialty-Philately,Specialty Philately
+4752,Topical-Stamps,Topical Stamps
+261,United-States,United States
+181420,Worldwide,Worldwide
+173634,Concert-Tickets,Concert Tickets
+1306,Other-Tickets-Experiences,Other Tickets & Experiences
+178892,Parking-Passes,Parking Passes
+170591,Special-Experiences,Special Experiences
+173633,Sports-Tickets,Sports Tickets
+173635,Theater-Tickets,Theater Tickets
+170594,Theme-Park-Club-Passes,Theme Park & Club Passes
+246,Action-Figures,Action Figures
+49019,Beanbag-Plush,Beanbag Plush
+183446,Building-Toys,Building Toys
+19016,Classic-Toys,Classic Toys
+2536,Collectible-Card-Games,Collectible Card Games
+222,Diecast-Toy-Vehicles,Diecast & Toy Vehicles
+11731,Educational,Educational
+19071,Electronic-Battery-Wind-Up,"Electronic, Battery & Wind-Up"
+19077,Fast-Food-Cereal-Premiums,Fast Food & Cereal Premiums
+233,Games,Games
+58799,Marbles,Marbles
+180250,Model-Railroads-Trains,Model Railroads & Trains
+1188,Models-Kits,Models & Kits
+11743,Outdoor-Toys-Structures,Outdoor Toys & Structures
+19169,Preschool-Toys-Pretend-Play,Preschool Toys & Pretend Play
+2613,Puzzles,Puzzles
+2562,Radio-Control-Control-Line,Radio Control & Control Line
+19192,Robots-Monsters-Space-Toys,"Robots, Monsters & Space Toys"
+2616,Slot-Cars,Slot Cars
+436,Stuffed-Animals,Stuffed Animals
+2631,Toy-Soldiers,Toy Soldiers
+2624,TV-Movie-Character-Toys,"TV, Movie & Character Toys"
+717,Vintage-Antique-Toys,Vintage & Antique Toys
+3253,Airline,Airline
+164802,Campground-RV-Parks,Campground & RV Parks
+147399,Car-Rental,Car Rental
+16078,Cruises,Cruises
+16123,Lodging,Lodging
+16080,Luggage,Luggage
+173520,Luggage-Accessories,Luggage Accessories
+164803,Maps,Maps
+1310,Other-Travel,Other Travel
+98982,Rail,Rail
+93838,Travel-Accessories,Travel Accessories
+29578,Vacation-Packages,Vacation Packages
+183477,Vintage-Luggage-Travel-Accs,Vintage Luggage & Travel Accs
+182174,Manuals-Inserts-Box-Art,"Manuals, Inserts & Box Art"
+182175,Original-Game-Cases-Boxes,Original Game Cases & Boxes
+187,Other-Video-Games-Consoles,Other Video Games & Consoles
+156597,Prepaid-Gaming-Cards,Prepaid Gaming Cards
+156595,Strategy-Guides-Cheats,Strategy Guides & Cheats
+54968,Video-Game-Accessories,Video Game Accessories
+139971,Video-Game-Consoles,Video Game Consoles
+38583,Video-Game-Merchandise,Video Game Merchandise
+139973,Video-Games,Video Games
+319,Adult-Only,Adult Only
+3143,Career-Development-Education,Career Development & Education
+177600,eBay-Special-Offers,eBay Special Offers
+20924,eBay-User-Tools,eBay User Tools
+88433,Every-Other-Thing,Every Other Thing
+88739,Funeral-Cemetery,Funeral & Cemetery
+20925,Genealogy,Genealogy
+102480,Information-Products,Information Products
+19266,Metaphysical,Metaphysical
+102329,Personal-Development,Personal Development
+102535,Personal-Security,Personal Security
+102545,Religious-Products-Supplies,Religious Products & Supplies
+102553,Reward-Points-Incentives,Reward Points & Incentives
+14112,Test-Auctions,Test Auctions
+1466,Weird-Stuff,Weird Stuff
