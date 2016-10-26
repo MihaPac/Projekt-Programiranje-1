@@ -9,6 +9,8 @@ import orodja
 
 #vzeto iz predavanj
 
+#v interesih transparence bom povedal, da je bila html datoteka samo ena in priredil sem jo, da bi regex deloval
+
 regex_kategorije = re.compile(
     r'<li><a href="http://www.ebay.com/sch/(?P<html_ime>\D+?.*?)/(?P<id>\d+)/i.html" class="ch">(?P<ime>.*?)</a></li>',
     flags=re.DOTALL
